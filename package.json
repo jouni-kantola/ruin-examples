@@ -1,0 +1,25 @@
+{
+  "name": "ruin-examples",
+  "version": "0.0.1",
+  "description": "A collection of ruin examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jouni-kantola/ruin-examples.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jouni-kantola/ruin-examples/issues"
+  },
+  "homepage": "https://github.com/jouni-kantola/ruin-examples#readme",
+  "devDependencies": {
+    "ruin": "0.0.1"
+  }
+}
